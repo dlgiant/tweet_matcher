@@ -1,0 +1,611 @@
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - START | Read_To_Memory |  |  
+09-29-2020|04:23:27|PM|EDT| - UTIL - INFO - END | Read_To_Memory 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Process |  |  
+09-29-2020|04:23:28|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets.jsonl.gz
+09-29-2020|04:23:28|PM|EDT| - MAIN - INFO - # TWEETS | PROCESSED 8156 | FILTERED 7795 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - END | Process 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Process_Concurrent |  |  
+09-29-2020|04:23:28|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets_x_10_r_10.jsonl.gz
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - START | Compress_Jsonl |  |  
+09-29-2020|04:23:28|PM|EDT| - UTIL - INFO - Writing partition ./temp//tweets_up_to_81560.jsonl.gz
+09-29-2020|04:23:29|PM|EDT| - UTIL - INFO - END | Compress_Jsonl 
+09-29-2020|04:23:29|PM|EDT| - MAIN - INFO - Partitions created: 1
+09-29-2020|04:23:29|PM|EDT| - UTIL - INFO - START | Get_Matches_Concurrent |  |  
+09-29-2020|04:23:29|PM|EDT| - MAIN - INFO - Started: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:23:32|PM|EDT| - MAIN - INFO - Finished: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - END | Get_Matches_Concurrent 
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Clean_Up |  |  
+09-29-2020|04:23:32|PM|EDT| - MAIN - INFO - Removed temporary jsonl
+09-29-2020|04:23:32|PM|EDT| - MAIN - INFO - Job completed successfully
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - END | Clean_Up 
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - END | Process_Concurrent 
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1,./sample/nodes_2
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3,./sample/terms_2_3
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:23:32|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - START | Read_To_Memory |  |  
+09-29-2020|04:26:52|PM|EDT| - UTIL - INFO - END | Read_To_Memory 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Process |  |  
+09-29-2020|04:26:53|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets.jsonl.gz
+09-29-2020|04:26:53|PM|EDT| - MAIN - INFO - # TWEETS | PROCESSED 8156 | FILTERED 7795 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - END | Process 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Process_Concurrent |  |  
+09-29-2020|04:26:53|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets_x_10_r_10.jsonl.gz
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - START | Compress_Jsonl |  |  
+09-29-2020|04:26:53|PM|EDT| - UTIL - INFO - Writing partition ./temp//tweets_up_to_81560.jsonl.gz
+09-29-2020|04:26:54|PM|EDT| - UTIL - INFO - END | Compress_Jsonl 
+09-29-2020|04:26:54|PM|EDT| - MAIN - INFO - Partitions created: 1
+09-29-2020|04:26:54|PM|EDT| - UTIL - INFO - START | Get_Matches_Concurrent |  |  
+09-29-2020|04:26:54|PM|EDT| - MAIN - INFO - Started: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:26:57|PM|EDT| - MAIN - INFO - Finished: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - END | Get_Matches_Concurrent 
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Clean_Up |  |  
+09-29-2020|04:26:57|PM|EDT| - MAIN - INFO - Removed temporary jsonl
+09-29-2020|04:26:57|PM|EDT| - MAIN - INFO - Job completed successfully
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - END | Clean_Up 
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - END | Process_Concurrent 
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1,./sample/nodes_2
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3,./sample/terms_2_3
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:26:57|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:57|PM|EDT| - UTIL - INFO - START | Read_To_Memory |  |  
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - END | Read_To_Memory 
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:27:58|PM|EDT| - UTIL - INFO - START | Process |  |  
+09-29-2020|04:27:58|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets.jsonl.gz
+09-29-2020|04:27:59|PM|EDT| - MAIN - INFO - # TWEETS | PROCESSED 8156 | FILTERED 7795 
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - END | Process 
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - START | Process_Concurrent |  |  
+09-29-2020|04:27:59|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets_x_10_r_10.jsonl.gz
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - START | Compress_Jsonl |  |  
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - Writing partition ./temp//tweets_up_to_81560.jsonl.gz
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - END | Compress_Jsonl 
+09-29-2020|04:27:59|PM|EDT| - MAIN - INFO - Partitions created: 1
+09-29-2020|04:27:59|PM|EDT| - UTIL - INFO - START | Get_Matches_Concurrent |  |  
+09-29-2020|04:27:59|PM|EDT| - MAIN - INFO - Started: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:28:03|PM|EDT| - MAIN - INFO - Finished: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - END | Get_Matches_Concurrent 
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Clean_Up |  |  
+09-29-2020|04:28:03|PM|EDT| - MAIN - INFO - Removed temporary jsonl
+09-29-2020|04:28:03|PM|EDT| - MAIN - INFO - Job completed successfully
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - END | Clean_Up 
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - END | Process_Concurrent 
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1,./sample/nodes_2
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3,./sample/terms_2_3
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:28:03|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1/nodes1.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3/terms1.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:28|PM|EDT| - UTIL - INFO - START | Read_To_Memory |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Read_To_Memory 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Process |  |  
+09-29-2020|04:30:29|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets.jsonl.gz
+09-29-2020|04:30:29|PM|EDT| - MAIN - INFO - # TWEETS | PROCESSED 8156 | FILTERED 7795 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Process 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Process_Concurrent |  |  
+09-29-2020|04:30:29|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets_x_10_r_10.jsonl.gz
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - START | Compress_Jsonl |  |  
+09-29-2020|04:30:29|PM|EDT| - UTIL - INFO - Writing partition ./temp//tweets_up_to_81560.jsonl.gz
+09-29-2020|04:30:30|PM|EDT| - UTIL - INFO - END | Compress_Jsonl 
+09-29-2020|04:30:30|PM|EDT| - MAIN - INFO - Partitions created: 1
+09-29-2020|04:30:30|PM|EDT| - UTIL - INFO - START | Get_Matches_Concurrent |  |  
+09-29-2020|04:30:30|PM|EDT| - MAIN - INFO - Started: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:30:34|PM|EDT| - MAIN - INFO - Finished: ./temp/tweets_up_to_81560.jsonl.gz
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - END | Get_Matches_Concurrent 
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Clean_Up |  |  
+09-29-2020|04:30:34|PM|EDT| - MAIN - INFO - Removed temporary jsonl
+09-29-2020|04:30:34|PM|EDT| - MAIN - INFO - Job completed successfully
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - END | Clean_Up 
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - END | Process_Concurrent 
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - END | Run 
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_1,./sample/nodes_2
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_1_3,./sample/terms_2_3
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:30:34|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - START | Get_Node_Ids |  |  
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found node files: ./sample/nodes_2/nodes1.txt,./sample/nodes_2/nodes2.txt
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - invalid literal for int() with base 10: ''
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Total node ids in set 1: 2000
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Total node ids in set 2: 2001
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - END | Get_Node_Ids 
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - START | Get_Terms |  |  
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found terms files: ./sample/terms_2_3/terms1.txt,./sample/terms_2_3/terms2.txt
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found 17 1-gram(s) in file 1
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found 11 2-gram(s) in file 1
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found 10 3-gram(s) in file 1
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found 7 1-gram(s) in file 2
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found 19 2-gram(s) in file 2
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - Found 7 3-gram(s) in file 2
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - END | Get_Terms 
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - START | Run |  |  
+09-29-2020|04:37:28|PM|EDT| - UTIL - INFO - START | Process |  |  
+09-29-2020|04:37:28|PM|EDT| - MAIN - INFO - Processing ./sample/tweets/tweets.jsonl.gz
+09-29-2020|04:37:29|PM|EDT| - MAIN - INFO - # TWEETS | PROCESSED 8156 | FILTERED 7795 
+09-29-2020|04:37:29|PM|EDT| - UTIL - INFO - END | Process 
+09-29-2020|04:37:29|PM|EDT| - UTIL - INFO - START | Write_Matches |  |  
+09-29-2020|04:37:29|PM|EDT| - UTIL - INFO - END | Write_Matches 
+09-29-2020|04:37:29|PM|EDT| - UTIL - INFO - END | Run 
